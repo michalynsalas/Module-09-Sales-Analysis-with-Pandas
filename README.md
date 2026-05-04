@@ -7,12 +7,12 @@ Sales data analysis using Pandas including filtering, aggregation, and business 
 module09-assignment.py
 
 ## What I Practiced
-Data loading and exploration
-Filtering and grouping data
-Handling missing values
-Generating business insights
+- Data loading and exploration
+- Filtering and grouping data
+- Handling missing values
+- Generating business insights
 
 ## Key Features
-Regional sales analysis
-Promotion effectiveness comparison
-Product performance evaluation
+- Regional sales analysis
+- Promotion effectiveness comparison
+- Product performance evaluation
